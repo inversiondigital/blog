@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site
 
 defaults:
 - scope:
-    path: ''
+    path: 'inversiondigital.github.io/blog/'
     type: posts
   values:
     permalink: "/blog/:title/"
